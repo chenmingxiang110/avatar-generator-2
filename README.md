@@ -1,1 +1,1 @@
-# -avatar-generator-2
+# avatar-generator-2
