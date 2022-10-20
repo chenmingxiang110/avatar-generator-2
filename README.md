@@ -7,3 +7,6 @@
 fg = FaceGen()
 img, _ = fg.generate()
 ```
+
+The model could be downloaded from the following folder, and be put under the inference folder.
+https://drive.google.com/file/d/1Q9uJGSS_kvzPUnnMY4Y68JeShVvMZXw1/view?usp=sharing
