@@ -2,6 +2,7 @@
 
 
 <img src="./imgs/example_00.png" width="700">
+<img src="./imgs/example_01.png" width="700">
 
 ```
 fg = FaceGen()
