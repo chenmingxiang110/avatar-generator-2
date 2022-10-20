@@ -6,6 +6,7 @@
 ## Face Fusion
 <img src="./imgs/example_01.png" width="700">
 
+## How to Use
 ```
 fg = FaceGen()
 img, _ = fg.generate()
