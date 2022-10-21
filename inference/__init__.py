@@ -71,7 +71,7 @@ class FaceGen:
         self.device = torch.device("cuda:0")
         model_path = os.path.join(
             os.path.dirname(os.path.abspath(__file__)),
-            "train_step-10-8000.model"
+            "generator.model"
         )
         generator = StyledGenerator(512).to(self.device)
         generator.load_state_dict(torch.load(model_path)['g_running'])
