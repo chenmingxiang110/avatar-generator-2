@@ -1,10 +1,10 @@
 # avatar-generator-2
 
 ## Face Generation
-<img src="./imgs/example_00.png" width="700">
+<img src="./imgs/example_02.png" width="700">
 
 ## Face Fusion
-<img src="./imgs/example_01.png" width="700">
+<img src="./imgs/example_03.png" width="700">
 
 ## How to Use
 ```
