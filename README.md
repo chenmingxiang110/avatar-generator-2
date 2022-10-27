@@ -1,5 +1,11 @@
 # avatar-generator-2
 
+## Requirements
+
+Python3
+
+pytorch>=1.6
+
 ## Face Generation
 <img src="./imgs/example_02.png" width="700">
 
